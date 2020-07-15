@@ -1,4 +1,4 @@
-let development = process.env.NODE_ENV !== 'production';
+const development = process.env.NODE_ENV !== 'production';
 
 module.exports = {
   mode: 'universal',

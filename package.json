@@ -12,7 +12,6 @@
     "lint:style": "stylelint **/*.{vue,css} --ignore-path .gitignore",
     "lint": "yarn lint:js && yarn lint:style",
     "test": "jest",
-    "predeploy": "yarn build",
     "deploy": " sls deploy"
   },
   "dependencies": {
