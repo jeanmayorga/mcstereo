@@ -11,7 +11,7 @@
     </div>
     <div class="container">
       <div class="title">
-        <h2>Últimas Noticias</h2>
+        <h2>Últimas Noticias de Baños</h2>
         <el-button type="info" plain size="mini" round>Ver todas</el-button>
       </div>
     </div>
